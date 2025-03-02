@@ -15,7 +15,6 @@
 <p align="center">
 <a href="mailto:kumar00shiv00k123@gmail.com" target="blank" style="display: inline-block; height: 35px; width: 35px;"><img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" alt="Mail" height="35" width="35" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shiv-kumar-6ab079263/" target="blank" style="display: inline-block; height: 35px; width: 35px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shiv-kumar-6ab079263/" height="35" width="35" /></a>
-<a href="https://codepen.io/@shiv-thakur-the-sans" target="blank" style="display: inline-block; height: 35px; width: 35px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@shiv-thakur-the-sans" height="35" width="35" /></a>
 <a href="https://instagram.com/shivthakur_292" target="blank" style="display: inline-block; height: 35px; width: 35px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivthakur_292" height="35" width="35" /></a>
 </p>
 
