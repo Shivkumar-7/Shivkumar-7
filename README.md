@@ -57,10 +57,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivkumar-7&theme=tokyonight" alt="Profile Summary"/>
 </div>
 
-## 🔥 GitHub Streak
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Shivkumar-7&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
-</div>
 
 ## 📊 Contribution Graph
 <div align="center">
