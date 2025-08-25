@@ -37,8 +37,6 @@
   
 <img width=400 src="https://github-readme-stats.vercel.app/api?username=Shivkumar-7&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" />
 
-<img width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=Shivkumar-7&theme=tokyonight&hide_border=false" />
-
 <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs?username=Shivkumar-7&show_icons=true&layout=compact&theme=tokyonight" />
 
 </div>
