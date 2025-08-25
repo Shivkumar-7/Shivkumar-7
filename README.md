@@ -52,7 +52,8 @@
 
 ---
 
-## 🏆 GitHub Trophies  
+## 🏆 GitHub Trophies:
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shivkumar-7&theme=monokai&margin-w=15&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shivkumar-7&title=MultiLanguage,Commits,Repositories,Issues,PullRequest,Stars&theme=monokai&no-frame=false&no-bg=false&margin-w=4" alt="trophies"/>
 </div>
+
