@@ -52,8 +52,8 @@
 
 ---
 
-## 🏆 GitHub Trophies:
+## 🚀 Profile Summary
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shivkumar-7&title=MultiLanguage,Commits,Repositories,Issues,PullRequest,Stars&theme=monokai&no-frame=false&no-bg=false&margin-w=4" alt="trophies"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivkumar-7&theme=tokyonight" alt="Profile Summary"/>
 </div>
 
