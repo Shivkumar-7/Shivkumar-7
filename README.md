@@ -32,14 +32,19 @@
 
 ---
 
-## 📊 GitHub Stats  
-<div align="center">
-  
-<img width=400 src="https://github-readme-stats.vercel.app/api?username=Shivkumar-7&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" />
+## 📊 GitHub Stats 
 
-<img width=400 src="https://github-readme-stats.vercel.app/api/top-langs?username=Shivkumar-7&show_icons=true&layout=compact&theme=tokyonight" />
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivkumar-7&theme=tokyonight" width="700"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shivkumar-7&theme=tokyonight" width="340"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shivkumar-7&theme=tokyonight" width="340"/>
+
+<img src="https://ghchart.rshah.org/Shivkumar-7" width="700"/>
 
 </div>
+
 
 ---
 
